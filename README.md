@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Front-end
 - 🏫 I study on University of Technology and Education
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuanphu03&layout=compact&theme=onedark)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuanphu03&layout=compact)
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuanphu03&show_icons=true&theme=onedark)
