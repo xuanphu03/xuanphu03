@@ -1,4 +1,4 @@
-- 👋 Hi, I’m XynFu
+- 👋 Hi, I’m Xuân Phú
 - 👀 I’m interested in Software 
 - 🌱 I’m currently learning Front-end
 - 🏫 I study on University of Technology and Education
