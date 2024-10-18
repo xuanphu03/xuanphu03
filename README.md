@@ -7,6 +7,9 @@
 <a href="https://www.facebook.com/kuma.xp03">
   <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<a href="https://x.com/xunaFudev">
+  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif">
 
@@ -32,7 +35,6 @@
 
 #### Frameworks I have used
 
-![Nodejs](https://img.shields.io/badge/-NodeJs-000000?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-ReactJs-000000?style=flat&logo=React)
 ![Next](https://img.shields.io/badge/-Next-000000?style=flat&logo=Next.js)
 ![Nest](https://img.shields.io/badge/-Nest-000000?style=flat&logo=Nestjs)
