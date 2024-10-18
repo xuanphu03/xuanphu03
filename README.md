@@ -35,9 +35,9 @@
 
 #### Frameworks I have used
 
-![React](https://img.shields.io/badge/-ReactJs-000000?style=flat&logo=React)
-![Next](https://img.shields.io/badge/-Next-000000?style=flat&logo=Next.js)
-![Nest](https://img.shields.io/badge/-Nest-000000?style=flat&logo=Nestjs)
+![React](https://img.shields.io/badge/-ReactJs-27282d?style=flat&logo=React)
+![Next](https://img.shields.io/badge/-Next-27282d?style=flat&logo=Next.js)
+![Nest](https://img.shields.io/badge/-Nest-27282d?style=flat&logo=Nestjs)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-27282d?style=flat&logo=TailwindCSS)
 ![Express](https://img.shields.io/badge/-ExpressJs-27282d?style=flat&logo=Express)
 ![Hono](https://img.shields.io/badge/-Hono-27282d?style=flat&logo=Hono)
